@@ -1,0 +1,9 @@
+D:\Projects\SolarCoffee\SolarCoffee.Services\bin\Debug\netstandard2.0\SolarCoffee.Services.deps.json
+D:\Projects\SolarCoffee\SolarCoffee.Services\bin\Debug\netstandard2.0\SolarCoffee.Services.dll
+D:\Projects\SolarCoffee\SolarCoffee.Services\bin\Debug\netstandard2.0\SolarCoffee.Services.pdb
+D:\Projects\SolarCoffee\SolarCoffee.Services\obj\Debug\netstandard2.0\SolarCoffee.Services.csprojAssemblyReference.cache
+D:\Projects\SolarCoffee\SolarCoffee.Services\obj\Debug\netstandard2.0\SolarCoffee.Services.AssemblyInfoInputs.cache
+D:\Projects\SolarCoffee\SolarCoffee.Services\obj\Debug\netstandard2.0\SolarCoffee.Services.AssemblyInfo.cs
+D:\Projects\SolarCoffee\SolarCoffee.Services\obj\Debug\netstandard2.0\SolarCoffee.Services.csproj.CoreCompileInputs.cache
+D:\Projects\SolarCoffee\SolarCoffee.Services\obj\Debug\netstandard2.0\SolarCoffee.Services.dll
+D:\Projects\SolarCoffee\SolarCoffee.Services\obj\Debug\netstandard2.0\SolarCoffee.Services.pdb
