@@ -6,3 +6,4 @@ D:\Projects\SolarCoffee\SolarCoffee.Services\obj\Debug\netcoreapp3.1\SolarCoffee
 D:\Projects\SolarCoffee\SolarCoffee.Services\obj\Debug\netcoreapp3.1\SolarCoffee.Services.csproj.CoreCompileInputs.cache
 D:\Projects\SolarCoffee\SolarCoffee.Services\obj\Debug\netcoreapp3.1\SolarCoffee.Services.dll
 D:\Projects\SolarCoffee\SolarCoffee.Services\obj\Debug\netcoreapp3.1\SolarCoffee.Services.pdb
+D:\Projects\SolarCoffee\SolarCoffee.Services\obj\Debug\netcoreapp3.1\SolarCoffee.Services.csprojAssemblyReference.cache
