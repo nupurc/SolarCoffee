@@ -49,3 +49,5 @@ D:\Projects\SolarCoffee\SolarCoffee.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.
 D:\Projects\SolarCoffee\SolarCoffee.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 D:\Projects\SolarCoffee\SolarCoffee.Web\obj\Debug\netcoreapp3.1\SolarCoffee.Web.csproj.CoreCompileInputs.cache
 D:\Projects\SolarCoffee\SolarCoffee.Web\obj\Debug\netcoreapp3.1\SolarCoffee.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\SolarCoffee\SolarCoffee.Web\bin\Debug\netcoreapp3.1\SolarCoffee.Services.dll
+D:\Projects\SolarCoffee\SolarCoffee.Web\bin\Debug\netcoreapp3.1\SolarCoffee.Services.pdb

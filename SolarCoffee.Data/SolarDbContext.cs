@@ -10,7 +10,7 @@ namespace SolarCoffee.Data
     {
         public SolarDbContext() { }
         public SolarDbContext(DbContextOptions dbContextOptions) : base(dbContextOptions) { }
-        public virtual DbSet<Customer> Cusomers { get; set; }
+        public virtual DbSet<Customer> Customers { get; set; }
         public virtual DbSet<CustomerAddress> CustomerAddress { get; set; }
         public virtual DbSet<Product> Products { get; set; }
         public virtual DbSet<ProductInventory> ProductInventories { get; set; }
